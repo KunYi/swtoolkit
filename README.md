@@ -4,12 +4,12 @@
 
 You are likely reading this file in one of the following two situations:
 
- #1 You have downloaded Software Construction Toolkit from code.google.com and are examining the contents.
- #1 This file was included in some other software package so that the package could be built using Software Construction Toolkit. In this case, follow the instructions provided with the rest of the software package for how to use Software Construction Toolkit to build and/or install the software.
+ 1. You have downloaded Software Construction Toolkit from GitHub (formerly found on code.google.com) and are examining the contents.
+ 1. This file was included in some other software package so that the package could be built using Software Construction Toolkit. In this case, follow the instructions provided with the rest of the software package for how to use Software Construction Toolkit to build and/or install the software.
 
 ## LATEST VERSION
 
-Once upon a time, this code was hosted at [Google Code](http://code.google.com/p/swtoolkit). Now it's been archived. There are a number of GitHub clones, but none appear to be authoritative. I'm cloning here as well, but I'm updating the README.md to reflect this reality.
+Once upon a time, this code was hosted at [Google Code](http://code.google.com/p/swtoolkit). Now it's been archived at that location. There are a number of [GitHub CLones](https://github.com/search?o=desc&q=swtoolkit&s=updated&type=Repositories&utf8=%E2%9C%93), but none appear to be authoritative. I'm cloning here as well, but I'm updating the README.md to reflect this reality and trying to update to to be more accurate. I'll even try to get 
 
 ## EXECUTION REQUIREMENTS
 
@@ -62,7 +62,7 @@ What you're looking at right now.
 
 Change history for major releases.
 
-## hammer.bat
+#### hammer.bat
 
 The entry point for Software Construction Toolkit on Windows.
 
@@ -104,24 +104,19 @@ Software Construction Toolkit is distributed under the BSD license, a full copy 
 
 ## REPORTING BUGS
 
-Once upon a time, you could report Software Construction Toolkit bugs at the Issues link on the Software Construction Toolkit's [Issues Page](https://code.google.com/archive/p/swtoolkit/issues). Now it's just an archive of old issues. You can open issues here too, but I'm not in any position to take this project over. Maybe someone will come along and take it over.
+Once upon a time, you could report Software Construction Toolkit bugs at the Issues link on the Software Construction Toolkit's [Issues Page](https://code.google.com/archive/p/swtoolkit/issues). Now it's just an archive of old issues. You can open issues here too, but I'm not in any position to take this project over. Maybe someone will come along and take ownership.
 
 ## MAILING LISTS
-=============
 
-A mailing list for users of Software Construction Toolkit is available.  You may send questions or comments to the list at:
+A mailing list for users of Software Construction Toolkit is available.  You may send questions or comments to the list at: `swtoolkit@googlegroups.com`
 
-`swtoolkit@googlegroups.com`
-
-You may subscribe to the mailing list at:
-
-`https://groups.google.com/forum/#!forum/swtoolkit`
+You may subscribe to the [mailing list](https://groups.google.com/forum/#!forum/swtoolkit).
 
 It hasn't seen action for a few years.
 
 ## AUTHOR INFO
 
-Randall Spangler <randall dot spangler at gmail dot com>
+Randall Spangler `<randall dot spangler at gmail dot com>`
 
 With plenty of help from the Software Construction Toolkit Development team:
   * Brad Nelson
