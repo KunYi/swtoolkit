@@ -33,7 +33,7 @@
 import TestFramework
 import optparse
 import os
-import StringIO
+import io
 import sys
 
 
@@ -103,7 +103,7 @@ def main():
 
   # Alter expected result based on optparse version (string case changed).
   op = optparse.OptionParser()
-  fh = StringIO.StringIO()
+  fh = io.StringIO()
   op.print_help(fh)
   if 'Usage:' in fh.getvalue():
     global expect_stdout
